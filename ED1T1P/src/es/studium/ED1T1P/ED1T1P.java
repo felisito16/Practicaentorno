@@ -5,6 +5,8 @@ import java.util.Random;
 public class ED1T1P {
 	static Random rnd=new Random();
 
+	// Felix esta dejandote un comentario por aqui :D
+	
 	public static void main(String[] args)
 	{
 		int veces; 
@@ -17,7 +19,7 @@ public class ED1T1P {
 			contador++;
 
 			}
-		System.out.println("Se han generado "+contador+" números aleatorios");
+		System.out.println("Se han generado "+contador+" nÃºmeros aleatorios");
 	}
 
 }
